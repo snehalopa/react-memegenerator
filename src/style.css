@@ -6,27 +6,29 @@ body {
 }
 
 header {
-    height: 100px;
+    height: 120px;
     display: flex;
+    justify-content: center;
     align-items: center;
     background:#6441A5; 
 }
 
 header > img {
     height: 80%;
-    margin-left: 10%;
+    
 }
 
 header > p {
     font-family: VT323, monospace;
     color: whitesmoke;
     font-size: 50px;
-    margin-left: 60px;
+    margin-left: 2%;
+    font-weight: bolder;
 }
 
 .meme {
     position: relative;
-    width: 90%;
+    width: 70%;
     margin: auto;
 }
 
@@ -59,7 +61,7 @@ header > p {
 }
 
 .meme-form {
-    width: 90%;
+    width: 70%;
     margin: 20px auto;
     display: flex;
     justify-content: space-between;
@@ -67,7 +69,7 @@ header > p {
 
 .meme-form > input {
     width: 45%;
-    height: 40px;
+    height: 50px;
 }
 
 .meme-form > button {
@@ -79,3 +81,28 @@ header > p {
     background: #6441A5;
 }
 
+@media(max-width:500px){
+    
+    .meme-form {
+        width: 75%;
+        flex-direction: column;
+        
+    }
+    .meme-form > input {
+        width: 97%;
+        height: 45px;
+        margin: 1% 0;
+    }
+    .meme {
+        width: 75%;    
+    }
+    header {
+        padding: 0 2%;
+    }
+    header > img {
+        height: 60%;
+    }
+    header > p {
+        font-size: 37px;
+    }
+}
