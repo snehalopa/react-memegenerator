@@ -23,7 +23,7 @@ header > p {
     color: whitesmoke;
     font-size: 50px;
     margin-left: 2%;
-    font-weight: bolder;
+    
 }
 
 .meme {
@@ -103,6 +103,6 @@ header > p {
         height: 60%;
     }
     header > p {
-        font-size: 35px;
+        font-size: 30px;
     }
 }
