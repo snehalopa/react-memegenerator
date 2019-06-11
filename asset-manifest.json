@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-memegenerator/static/css/main.5cbf3894.chunk.css",
+    "main.css": "/react-memegenerator/static/css/main.05efabc6.chunk.css",
     "main.js": "/react-memegenerator/static/js/main.9fdc73c0.chunk.js",
     "main.js.map": "/react-memegenerator/static/js/main.9fdc73c0.chunk.js.map",
     "runtime~main.js": "/react-memegenerator/static/js/runtime~main.d17c967c.js",
@@ -8,9 +8,9 @@
     "static/js/2.e2adb5f9.chunk.js": "/react-memegenerator/static/js/2.e2adb5f9.chunk.js",
     "static/js/2.e2adb5f9.chunk.js.map": "/react-memegenerator/static/js/2.e2adb5f9.chunk.js.map",
     "index.html": "/react-memegenerator/index.html",
-    "precache-manifest.a91a83e6eaeaa5e358d7109f4712b6a1.js": "/react-memegenerator/precache-manifest.a91a83e6eaeaa5e358d7109f4712b6a1.js",
+    "precache-manifest.4f813030cf36463231950243272a1833.js": "/react-memegenerator/precache-manifest.4f813030cf36463231950243272a1833.js",
     "service-worker.js": "/react-memegenerator/service-worker.js",
-    "static/css/main.5cbf3894.chunk.css.map": "/react-memegenerator/static/css/main.5cbf3894.chunk.css.map",
+    "static/css/main.05efabc6.chunk.css.map": "/react-memegenerator/static/css/main.05efabc6.chunk.css.map",
     "static/media/logo.svg": "/react-memegenerator/static/media/logo.5d5d9eef.svg"
   }
 }
