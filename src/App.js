@@ -1,14 +1,15 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-
+import './style.css'
+import Header from './Header';
+import MemeGenerator from './MemeGenerator';
 function App() {
   return (
     <div>
-    <h1>hello</h1>
-    
+      <Header />
+      <MemeGenerator />
     </div>
   );
 }
-
 export default App;
