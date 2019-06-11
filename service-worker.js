@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/react-memegenerator/precache-manifest.b493ac9e8ddbd77752a1851ddfa38454.js"
+  "/react-memegenerator/precache-manifest.a91a83e6eaeaa5e358d7109f4712b6a1.js"
 );
 
 self.addEventListener('message', (event) => {

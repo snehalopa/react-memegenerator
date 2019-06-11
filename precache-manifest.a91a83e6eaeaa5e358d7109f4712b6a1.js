@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ca04c3bedbf486c98c6095b788d477b2",
+    "revision": "547bacdbd29ee074470abb4eafa32620",
     "url": "/react-memegenerator/index.html"
   },
   {
-    "revision": "22eaabd3dc5c99e74161",
-    "url": "/react-memegenerator/static/css/main.755dbc88.chunk.css"
+    "revision": "84f5594e1083fb5edb46",
+    "url": "/react-memegenerator/static/css/main.5cbf3894.chunk.css"
   },
   {
     "revision": "0f19e2518a3a17b37f23",
     "url": "/react-memegenerator/static/js/2.e2adb5f9.chunk.js"
   },
   {
-    "revision": "22eaabd3dc5c99e74161",
+    "revision": "84f5594e1083fb5edb46",
     "url": "/react-memegenerator/static/js/main.9fdc73c0.chunk.js"
   },
   {
